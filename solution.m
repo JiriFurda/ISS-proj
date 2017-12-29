@@ -16,6 +16,12 @@ plot(Xhalf)	% Show spectral analysis
 % ix = 699 ... Maximum of spectre is at 698 Hz (Indexing starts at 1 but frequency starts with 0)
 
 
+% Task #4
+b = [0.2324, -0.4112, 0.2289]
+a = [1, 0.2289, 0.4662]
+ukazmito(b, a, Fs)
+% Signal is stable
+
 
 
 
