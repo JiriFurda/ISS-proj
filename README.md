@@ -5,15 +5,15 @@ Subject: **Signals and Systems (ISS)**
 
 ## Score
 Overall: **4/12**
-| Task # | Max | Points | Commentary
+| Task # | Max | Points | Commentary |
 | ------ | ------ | ------ | ------ |
 | 1 | 0.5 | 0.5 |
 | 2 | 0.5 | 0.5 |
-| 3 | 1 | 1 | Watchout for Matlab indexing starting at 1
-| 4 | 0.5 | 0.5 | It is appropriate to describe graph axis in documentation
+| 3 | 1 | 1 | Watchout for Matlab indexing starting at 1 |
+| 4 | 0.5 | 0.5 | It is appropriate to describe graph axis in documentation |
 | 5 | 0.5 | 0.5 |
 | 6 | 0.5 | 0.5 |
-| 7 | 0.5 | 0.5 | Indexing
+| 7 | 0.5 | 0.5 | Indexing |
 | 8 | 0.5 | 0 |
 | 9 | 0.5 | 0 |
 | 10 | 0.5 | 0 |
